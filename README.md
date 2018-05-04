@@ -12,7 +12,7 @@ Version 0.1.0 - April 2018
 Wim Thiery
 
 ## License
-This project is licensed under the MIT License. See also the [LICENSE](./license) file.
+This project is licensed under the MIT License. See also the [license](./license) file.
 
 ## References
 
