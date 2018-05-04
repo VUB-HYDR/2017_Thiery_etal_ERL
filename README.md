@@ -16,5 +16,5 @@ This project is licensed under the MIT License. See also the [license](./license
 
 ## References
 
-Thiery, W., Gudmundsson, L., Bedka, K., Semazzi, F.H.M., Lhermitte, S., Willems, P., van Lipzig, N.P.M., Seneviratne, S.I., 2017, Early warnings of hazardous thunderstorms over Lake Victoria, Env. Res. Letters, 12, 074012, 
-[pdf](https://vub-my.sharepoint.com/personal/wim_thiery_vub_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwim%5Fthiery%5Fvub%5Fbe%2FDocuments%2Fpublic%2Fwebsite%2Fpapers%5FWT%2FThiery%5Fetal%5F2017%5FERL%2Epdf&parent=%2Fpersonal%2Fwim%5Fthiery%5Fvub%5Fbe%2FDocuments%2Fpublic%2Fwebsite%2Fpapers%5FWT&slrid=1fde639e%2Dd033%2D5000%2D7b3c%2D56d8d6fc95fa). 
+Thiery, W., Gudmundsson, L., Bedka, K., Semazzi, F.H.M., Lhermitte, S., Willems, P., van Lipzig, N.P.M., Seneviratne, S.I., 2017, Early warnings of hazardous thunderstorms over Lake Victoria, Env. Res. Letters, 12, 074012. 
+[pdf](https://vub-my.sharepoint.com/personal/wim_thiery_vub_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwim%5Fthiery%5Fvub%5Fbe%2FDocuments%2Fpublic%2Fwebsite%2Fpapers%5FWT%2FThiery%5Fetal%5F2017%5FERL%2Epdf&parent=%2Fpersonal%2Fwim%5Fthiery%5Fvub%5Fbe%2FDocuments%2Fpublic%2Fwebsite%2Fpapers%5FWT&slrid=1fde639e%2Dd033%2D5000%2D7b3c%2D56d8d6fc95fa)
