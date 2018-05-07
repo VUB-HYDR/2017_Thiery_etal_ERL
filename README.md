@@ -6,7 +6,7 @@ Scripts used in Thiery et al., 2017 ERL.
 This repository includes the processing scripts of the Lake Victoria Intense Storm Early Warning System. The main analysis is performed in Matlab 2017b.
 
 ## Versions
-Version 0.1.0 - April 2018
+Version 0.1.0 - May 2018
 
 ## Authors
 Wim Thiery
